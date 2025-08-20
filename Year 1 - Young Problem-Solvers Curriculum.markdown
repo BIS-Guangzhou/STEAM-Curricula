@@ -1,8 +1,10 @@
 # Young Problem-Solvers: Robotics and Crafting Innovations 🛠️
 
-**Overarching Theme**: "Young Problem-Solvers: Exploring Problems and Creating Solutions with Tools"
+## Curriculum Summary 🌟
 
-This curriculum is designed for 5-year-old students (Year 1), following the Cambridge Primary curriculum and the 5E instructional model, with a focus on the K-2-ETS1-1 standard. The K-2-ETS1-1 standard emphasizes students learning to "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool." It integrates foundational engineering design skills, computational thinking, and digital literacy as outlined in the Cambridge Primary Computing (0059) and Digital Literacy (0072) curricula. Robotics activities leverage the "Robotics Zone" (Yellow Area) and "Digital Workspace (Blue Area)" for hands-on experience in robotics, robot assembly, and programming.
+The "Young Problem-Solvers: Robotics and Crafting Innovations" curriculum is a 15-class STEAM program tailored for Year 1, Cambridge Primary 👧👦, aligning with the K-2-ETS1-1 standard, which focuses on asking questions ❓, making observations 👀, and gathering information to define simple problems solvable through new or improved tools. Each 90-minute class (60-minute main activity + 30-minute robot extension 🤖) leverages the Robotics Zone (Yellow Area) 🟡 and Digital Workspace (Blue Area) 💻 to engage students in hands-on activities like crafting tools ✂️, assembling robots 🚗, and programming basic sequences, fostering engineering design, computational thinking 🧠, and digital literacy 📱 as per the Cambridge Primary Computing and Digital Literacy curricula.
+
+Structured around five units, the curriculum guides students from observing and defining problems (Unit 1 🔍) to crafting tools and improving designs (Unit 2 🔨), introducing robots as advanced tools (Unit 3 💾), integrating robotics and crafting to solve challenges (Unit 4 🧩), and reflecting on their innovations through digital sharing (Unit 5 🌈). Robot extension activities reinforce problem-solving by having students interact with robots, program simple movements, or design attachments, connecting concepts to real-world applications. The final showcase 🎉 empowers students to present their solutions, solidifying their identity as young innovators and computational thinkers 😊, ready to tackle problems with creativity and technology.
 
 ---
 
