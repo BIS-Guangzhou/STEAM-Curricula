@@ -6,6 +6,8 @@ The "Shape Shapers: Designing Solutions with Robotics and Crafting" curriculum i
 
 The curriculum begins with exploring basic shapes and their functions (Unit 1 🔍), advances to sketching functional designs (Unit 2 📐), moves to crafting physical models (Unit 3 🧱), and culminates in solving complex challenges through integrated robotics and crafting (Unit 4 🚧). The robot extension activities reinforce concepts by having students interact with robots, such as attaching shaped components 🔧 or programming movements to test functionality ⚙️. By the final showcase 🎉, students present their creations, articulating how shapes solve specific problems, solidifying their identity as innovative designers 🌈. This holistic approach ensures young learners connect shape, function, and technology in a fun, collaborative, and meaningful way 😊.
 
+---
+
 ## Unit 1: The Power of Shape: How Objects Work 🔍
 
 *(Focus: Understanding "how the shape of an object helps it function")*
