@@ -1,11 +1,10 @@
 # Shape Shapers: Designing Solutions with Robotics and Crafting 🚀
 
-**Target Audience:** 6-year-old students (Year 1, Cambridge Primary)\
-**Class Duration:** 60 minutes per class (main activity) + 30 minutes per class (second activity)\
-**Core Standard Focus:** K-2-ETS1-2 (Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem)\
-**Integrated Disciplines:** Science, Technology, Engineering, Arts, Mathematics (STEAM)\
-**Key Resources:** Laptops (Digital Workspace), Robotics kits (Robotics Zone), Craft materials (Manufacturing Station), 3D printers (3D Printing Hub)
+## Curriculum Summary 🌟
 
+The "Shape Shapers: Designing Solutions with Robotics and Crafting" curriculum is a 15-class STEAM program designed for Year 2, Cambridge Primary 👩‍🏫, aligning with the K-2-ETS1-2 standard, which emphasizes creating sketches ✍️, drawings 🎨, or physical models 🛠️ to show how an object's shape enables its function. Each 90-minute class (60-minute main activity + 30-minute robot-focused extension 🤖) engages students in hands-on, technology-integrated activities using a Digital Workspace (laptops 💻), Robotics Zone (robotics kits 🚗), Manufacturing Station (craft materials ✂️), and 3D Printing Hub 🖨️. Across four units, students progress from identifying shapes and their purposes to designing, building, and programming robot attachments, fostering skills in problem-solving 🧠, creativity 🎭, and computational thinking 💡.
+
+The curriculum begins with exploring basic shapes and their functions (Unit 1 🔍), advances to sketching functional designs (Unit 2 📐), moves to crafting physical models (Unit 3 🧱), and culminates in solving complex challenges through integrated robotics and crafting (Unit 4 🚧). The robot extension activities reinforce concepts by having students interact with robots, such as attaching shaped components 🔧 or programming movements to test functionality ⚙️. By the final showcase 🎉, students present their creations, articulating how shapes solve specific problems, solidifying their identity as innovative designers 🌈. This holistic approach ensures young learners connect shape, function, and technology in a fun, collaborative, and meaningful way 😊.
 ---
 
 ## Unit 1: The Power of Shape: How Objects Work 🔍
